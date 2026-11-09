@@ -14,7 +14,7 @@ info:
 servers:
   - url: http://localhost:5000
     description: Local Development Server
-  - url: http://mern.johnaedo.com:5000
+  - url: https://cards-ethan.duckdns.org
     description: Production Server
 
 tags:
